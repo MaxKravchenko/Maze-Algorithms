@@ -1,0 +1,4 @@
+repository "ModularMaze@GrAKrA@cloud"
+  path "/"
+    br "/main"
+    co "/main"
